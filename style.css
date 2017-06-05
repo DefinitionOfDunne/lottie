@@ -12,6 +12,14 @@ h1 {
 	font-variant: small-caps;
 }
 
+h2 {
+	font-family: 'Josefin Sans', sans-serif;
+	color:blue;
+	font-size: 4em;
+	text-align: center;
+	font-variant: small-caps;
+}
+
 img {
 	margin: 0 auto;
 	display: block;
