@@ -1,11 +1,11 @@
-@import url('https://fonts.googleapis.com/css?family=Bubbler+One');
+@import url('https://fonts.googleapis.com/css?family=Bubbler+One|Indie+Flower');
 
 body {
 	background-color: orange;
 }
 
 h1 {
-	font-family: 'Bubbler One', sans-serif;
+	font-family: 'Indie Flower', cursive;
 	color:blue;
 	font-size: 4em;
 	text-align: center;
