@@ -1,12 +1,12 @@
 @import url('https://fonts.googleapis.com/css?family=Bubbler+One|Indie+Flower|Josefin+Sans');
 
 body {
-	background-color: orange;
+	background-color: #a900ff;
 }
 
 h1 {
 	font-family: 'Josefin Sans', sans-serif;
-	color:blue;
+	color:#27278e;
 	font-size: 4em;
 	text-align: center;
 	font-variant: small-caps;
@@ -14,7 +14,7 @@ h1 {
 
 h2 {
 	font-family: 'Josefin Sans', sans-serif;
-	color:blue;
+	color:#27278e;
 	font-size: 4em;
 	text-align: center;
 	font-variant: small-caps;
@@ -23,5 +23,5 @@ h2 {
 img {
 	margin: 0 auto;
 	display: block;
-	border: 20px solid blue;
+	border: 20px solid #27278e;
 }
