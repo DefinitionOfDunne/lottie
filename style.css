@@ -1,8 +1,11 @@
+@import url('https://fonts.googleapis.com/css?family=Bubbler+One');
+
 body {
 	background-color: orange;
 }
 
 h1 {
+	font-family: 'Bubbler One', sans-serif;
 	color:blue;
 	text-align: center;
 }
