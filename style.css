@@ -26,7 +26,16 @@ img {
 	display: block;
 	border: 20px solid #27278e;
 }
-
+#email{
+  font-family: 'Josefin Sans', sans-serif;
+  font-size: 1.5em;
+  color:#27278e;
+}
+#emailwrapper{
+  text-align: center;
+  font-variant: small-caps;
+  margin: 4rem 0;
+}
 .christmasLights {
   margin: 0 auto;
   animation: flash 2s step-start infinite;
