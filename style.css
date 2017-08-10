@@ -7,16 +7,21 @@ body {
 
 h1 {
     font-family: 'Josefin Sans', sans-serif;
-    color: #3f0e6b;
+    color: #ae1031;
     font-size: 4em;
     text-align: center;
     font-variant: small-caps;
     text-shadow: 0 0 80px rgba(255, 255, 255, 0.3);
 }
-
+iframe {
+    height: 5em;
+    bottom: 0;
+    width: 100%;
+    left: 0;
+}
 h2 {
     font-family: 'Josefin Sans', sans-serif;
-    color: #3f0e6b;
+    color: #ae1031;
     font-size: 4em;
     text-align: center;
     font-variant: small-caps;
@@ -25,14 +30,14 @@ h2 {
 img {
     margin: 0 auto;
     display: block;
-    border: 20px solid #3f0e6b;
+    border: 20px solid #ae1031;
 	background-color: #0f83af;
 	cursor: url(doggo.png), auto;
 }
 
 h1 {
 	font-family: 'Josefin Sans', sans-serif;
-	color:#3f0e6b;
+	color:#ae1031;
 	font-size: 4em;
 	text-align: center;
 	font-variant: small-caps;
@@ -41,7 +46,7 @@ h1 {
 
 h2 {
 	font-family: 'Josefin Sans', sans-serif;
-	color:#3f0e6b;
+	color:#ae1031;
 	font-size: 4em;
 	text-align: center;
 	font-variant: small-caps;
@@ -50,7 +55,7 @@ h2 {
 img {
 	margin: 0 auto;
 	display: block;
-	border: 20px solid #3f0e6b;
+	border: 20px solid #ae1031;
 
 }
 
